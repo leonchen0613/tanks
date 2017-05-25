@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Vertex
+comment0.text=\r\n\ Vertex\ between\ walls.\r\n\ \r\n\ @author\ Leon\ Chen\r\n\ @version\ Final\r\n
+comment1.params=
+comment1.target=Vertex()
+comment1.text=\r\n\ Constructor\ of\ Vertex.\r\n
+numComments=2

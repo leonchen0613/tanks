@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Battlefield
+comment0.text=\r\n\ The\ battlefield\ of\ the\ game.\r\n\ \r\n\ @author\ Leon\ Chen\r\n\ @version\ Final\r\n
+comment1.params=
+comment1.target=Battlefield()
+comment1.text=\r\n\ Constructor\ of\ Battlefield.\r\n
+comment2.params=
+comment2.target=void\ prepare()
+comment2.text=\r\n\ Prepares\ the\ world\ for\ the\ start\ of\ the\ program.\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Runs\ this\ repeatedly.\r\n
+comment4.params=
+comment4.target=void\ walls()
+comment4.text=\r\n\ Randomly\ generates\ walls.\r\n
+comment5.params=
+comment5.target=void\ verticies()
+comment5.text=\r\n\ Adds\ verticies\ to\ the\ walls.\r\n
+comment6.params=
+comment6.target=void\ spawnCrates()
+comment6.text=\r\n\ Randomly\ spawns\ crates.\r\n
+numComments=7

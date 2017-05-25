@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ScoreBlue
+comment0.text=\r\n\ Score\ of\ the\ blue\ tank.\r\n\ \r\n\ @author\ Leon\ Chen\r\n\ @version\ Final\r\n
+comment1.params=score
+comment1.target=ScoreBlue(int)
+comment1.text=\r\n\ Constructor\ of\ ScoreBlue.\r\n
+numComments=2
