@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PlayButton
+comment0.text=\r\n\ Play\ button\ on\ the\ main\ menu.\r\n\ \r\n\ @author\ Leon\ Chen\r\n\ @version\ Final\r\n
+comment1.params=
+comment1.target=PlayButton()
+comment1.text=\r\n\ Constructor\ of\ PlayButton.\r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Text
+comment0.text=\r\n\ Displays\ words.\r\n\ \r\n\ @author\ Leon\ Chen\r\n\ @version\ Final\r\n
+comment1.params=number
+comment1.target=Text(int)
+comment1.text=\r\n\ Constructor\ of\ Text.\r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3

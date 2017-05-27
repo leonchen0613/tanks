@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=MainMenu
+comment0.text=\r\n\ The\ main\ menu\ of\ the\ game.\r\n\ \r\n\ @author\ Leon\ Chen\r\n\ @version\ Final\r\n
+comment1.params=
+comment1.target=MainMenu()
+comment1.text=\r\n\ Constructor\ of\ MainMenu.\r\n
+comment2.params=
+comment2.target=void\ prepare()
+comment2.text=\r\n\ Prepares\ the\ world\ for\ the\ start\ of\ the\ program.\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Runs\ this\ repeatedly.\r\n
+comment4.params=
+comment4.target=void\ animateTank()
+comment4.text=\r\n\ Animates\ the\ tank\ by\ moving\ it\ up\ and\ down.\r\n
+comment5.params=
+comment5.target=void\ animatePixelTank()
+comment5.text=\r\n\ Animates\ the\ pixel\ tanks\ at\ the\ bottom\ of\ the\ main\ menu.\r\n
+numComments=6

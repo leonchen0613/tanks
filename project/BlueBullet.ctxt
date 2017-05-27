@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=angle
+comment0.target=BlueBullet(int)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ direction()
+comment2.text=\r\n\ Sets\ the\ direction\ of\ the\ blue\ bullet.\r\n
+comment3.params=
+comment3.target=void\ life()
+comment3.text=\r\n\ The\ status\ and\ duration\ of\ the\ blue\ bullet.\r\n
+comment4.params=
+comment4.target=void\ refresh()
+comment4.text=\r\n\ Resets\ the\ map.\r\n
+numComments=5

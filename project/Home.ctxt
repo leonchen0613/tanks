@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Home
+comment0.text=\r\n\ Home\ button\ on\ the\ scoreboard.\r\n\ \r\n\ @author\ Leon\ Chen\r\n\ @version\ Final\r\n
+comment1.params=
+comment1.target=Home()
+comment1.text=\r\n\ Constructor\ of\ Home.\r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3
